@@ -1,7 +1,7 @@
 #Music I Heard
 
->__Music__ I heard with you was more than music,  
->And bread I broke with you was more than bread;  
+>__Music__ I heard with you was more than *music*,  
+>And *bread* I broke with you was more than *bread*;  
 >Now that I am without you, all is desolate;  
 >All that was once so beautiful is dead.  
 
